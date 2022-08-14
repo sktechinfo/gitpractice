@@ -1,1 +1,4 @@
-hi this is my first file to upload git 
+hi this is my first file to upload git
+
+hi this is my 2nd line 
+
